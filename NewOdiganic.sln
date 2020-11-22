@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewOdiganic", "NewOdiganic\NewOdiganic.csproj", "{1BFB63FF-1C6C-4508-AEE3-63A87CB0D4ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdiganicModel", "OdiganicModel\OdiganicModel.csproj", "{198480C2-5BBF-44A7-B873-656B5E1C4980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdiganicDataAccess", "OdiganicDataAccess\OdiganicDataAccess.csproj", "{AF750B61-1A01-492D-80E3-BC09891D79E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdiganicUtility", "OdiganicUtility\OdiganicUtility.csproj", "{DBC29993-7BB3-43F8-8231-B3E9D3544514}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BFB63FF-1C6C-4508-AEE3-63A87CB0D4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BFB63FF-1C6C-4508-AEE3-63A87CB0D4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BFB63FF-1C6C-4508-AEE3-63A87CB0D4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BFB63FF-1C6C-4508-AEE3-63A87CB0D4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{198480C2-5BBF-44A7-B873-656B5E1C4980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198480C2-5BBF-44A7-B873-656B5E1C4980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198480C2-5BBF-44A7-B873-656B5E1C4980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198480C2-5BBF-44A7-B873-656B5E1C4980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF750B61-1A01-492D-80E3-BC09891D79E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF750B61-1A01-492D-80E3-BC09891D79E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF750B61-1A01-492D-80E3-BC09891D79E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF750B61-1A01-492D-80E3-BC09891D79E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC29993-7BB3-43F8-8231-B3E9D3544514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC29993-7BB3-43F8-8231-B3E9D3544514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC29993-7BB3-43F8-8231-B3E9D3544514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC29993-7BB3-43F8-8231-B3E9D3544514}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56370741-2099-4B28-8E34-C1580FD7622B}
+	EndGlobalSection
+EndGlobal
